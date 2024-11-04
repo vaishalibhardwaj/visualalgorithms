@@ -1,3 +1,3 @@
 # visualalgorithms
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/vaishalibhardwaj/visualalgorithms)
+my app is deployed at: https://peaceful-monstera-73a70d.netlify.app/
